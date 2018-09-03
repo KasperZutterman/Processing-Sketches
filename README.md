@@ -1,2 +1,2 @@
 # Processing-Sketches
-This is a repository contains a variety of sketches 
+This is a repository that contains a variety of sketches 
