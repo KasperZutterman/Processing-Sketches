@@ -6,7 +6,7 @@ void setup() {
   size(800, 800, P3D);
   sponge = new ArrayList<Box>();
   
-  Box b = new Box(0,0,0,400);
+  Box b = new Box(0,0,0,360);
   sponge.add(b);
 }
 
