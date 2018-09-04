@@ -12,7 +12,7 @@ void setup() {
   noFill();
   stroke(255);
   strokeWeight(3);
-  polygon = new float[npoints][2];
+  polygon = new float[npoints+1][2];
   polygon(400, 400, 300, npoints);
   delay(2000);
   randomPoint();
