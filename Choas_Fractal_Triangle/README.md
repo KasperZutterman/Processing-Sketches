@@ -1,6 +1,6 @@
 # Choas Fractal Triangle in Processing
 
-A choas fractal generator in a triangle.
+A choas fractal generator using a triangle as shape.
 
 Interesting video example: https://youtu.be/IGlGvSXkRGI
 
